@@ -1,0 +1,60 @@
+about:
+  description: [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+  license: AGPL-3.0
+  homepage: https://pdf2zh.com
+  head: 8b77783
+  archived: false
+  latestVersion: v1.9.11
+  collectedAt: 2026-09-01T05:13:18Z
+timeline:
+  created: 2024-09-06
+  lastCommit: 2026-09-01
+  lastRelease: 2025-07-11
+popularity:
+  star: 36535
+  watcher: 125
+  fork: 3266
+  release: 24
+  contributor: 54
+  pullRequest: 115
+  issue: 881
+language:
+  Python: 241172
+  PowerShell: 2987
+  Dockerfile: 1218
+  Batchfile: 896
+  Standard ML: 64
+totalLine: 246337
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 4
+    commit: 365
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 9
+    closedIssue: 0
+    openIssue: 12
+    commit: 365
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 11
+    openPR: 24
+    closedIssue: 0
+    openIssue: 25
+    commit: 402
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 17
+    openPR: 24
+    closedIssue: 34
+    openIssue: 31
+    commit: 413
