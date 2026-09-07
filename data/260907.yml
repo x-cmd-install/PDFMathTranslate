@@ -2,18 +2,18 @@ about:
   description: "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
   license: AGPL-3.0
   homepage: https://pdf2zh.com
-  head: 5c01e8b
+  head: 33eebd4
   archived: false
   latestVersion: "v1.9.11"
-  collectedAt: 2026-09-07T05:17:16Z
+  collectedAt: 2026-09-07T19:14:23Z
 timeline:
   created: 2024-09-06
   lastCommit: 2026-09-07
   lastRelease: 2025-07-11
 popularity:
-  star: 36741
+  star: 36759
   watcher: 127
-  fork: 3302
+  fork: 3301
   release: 24
   contributor: 54
   pullRequest: 272
@@ -33,7 +33,7 @@ recent:
     openPR: 6
     closedIssue: 0
     openIssue: 2
-    commit: 590
+    commit: 609
   last60d:
     since: 2026-07-09
     release: 0
@@ -41,7 +41,7 @@ recent:
     openPR: 8
     closedIssue: 0
     openIssue: 6
-    commit: 590
+    commit: 609
   last90d:
     since: 2026-06-09
     release: 0
@@ -49,7 +49,7 @@ recent:
     openPR: 11
     closedIssue: 0
     openIssue: 10
-    commit: 590
+    commit: 609
   last180d:
     since: 2026-03-11
     release: 0
@@ -57,7 +57,7 @@ recent:
     openPR: 27
     closedIssue: 0
     openIssue: 24
-    commit: 624
+    commit: 643
   last360d:
     since: 2025-09-12
     release: 0
@@ -65,7 +65,7 @@ recent:
     openPR: 27
     closedIssue: 31
     openIssue: 31
-    commit: 638
+    commit: 657
   last720d:
     since: 2024-09-17
     release: 24
@@ -73,17 +73,17 @@ recent:
     openPR: 27
     closedIssue: 755
     openIssue: 124
-    commit: 1699
+    commit: 1718
 total:
   release: 24
   mergedPR: 154
   openPR: 27
   closedIssue: 757
   openIssue: 124
-  commit: 1734
+  commit: 1753
 ---
 path: /home/runner/.x-repo/github.com/PDFMathTranslate/PDFMathTranslate
-collectedAt: 2026-09-07T05:17:22Z
+collectedAt: 2026-09-07T19:14:28Z
 loc:
   Python:
     code: 5787
@@ -144,7 +144,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:17:23+00:00
+  collectedAt: 2026-09-07T19:14:28+00:00
   platform:
     darwin/arm64:
       name:  null
