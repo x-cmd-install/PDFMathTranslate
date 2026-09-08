@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 323026518,
       "digest": "sha256:aa46c8dd37a4209b2f54072e237dcd1576bd44d8f288107b12046b3744795748",
-      "download_count": 31050,
+      "download_count": 31055,
       "created_at": "2025-07-11T08:40:19Z",
       "updated_at": "2025-07-11T08:40:29Z",
       "browser_download_url": "https://github.com/PDFMathTranslate/PDFMathTranslate/releases/download/v1.9.11/pdf2zh-v1.9.11-win64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 546221784,
       "digest": "sha256:fe513c3b95c9acb2609ce53240962c4a7e073fa13910af0f207956c7b3258c76",
-      "download_count": 43702,
+      "download_count": 43713,
       "created_at": "2025-07-11T08:40:29Z",
       "updated_at": "2025-07-11T08:40:43Z",
       "browser_download_url": "https://github.com/PDFMathTranslate/PDFMathTranslate/releases/download/v1.9.11/pdf2zh-v1.9.11-with-assets-win64.zip"
