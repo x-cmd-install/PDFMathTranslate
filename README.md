@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/PDFMathTranslate/PDFMathTranslate>
 - **Homepage**: <https://pdf2zh.com>
 - **Latest release**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-09
 - **License**: AGPL-3.0
-- **Stars**: 36776 · **Forks**: 3305 · **Open issues**: 881 · **Contributors**: 54
+- **Stars**: 36791 · **Forks**: 3307 · **Open issues**: 882 · **Contributors**: 54
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/PDFMathTranslate> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:33:14Z._
+_Last regenerated: 2026-09-09T05:29:12Z._
