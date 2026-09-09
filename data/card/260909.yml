@@ -2,12 +2,12 @@ about:
   description: "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
   license: AGPL-3.0
   homepage: https://pdf2zh.com
-  head: 0dd8b2d
+  head: 69f1eba
   archived: false
   latestVersion: "v1.9.11"
   latestRelease: "v1.9.11"
   latestPrerelease: "awv1.9.2.rc0"
-  collectedAt: 2026-09-09T05:29:06Z
+  collectedAt: 2026-09-09T19:32:54Z
 timeline:
   created: 2024-09-06
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-07-11
   lastPrerelease: 2025-02-22
 popularity:
-  star: 36791
-  watcher: 127
-  fork: 3307
+  star: 36812
+  watcher: 128
+  fork: 3311
   release: 24
   contributor: 54
   pullRequest: 274
@@ -37,7 +37,7 @@ recent:
     openPR: 6
     closedIssue: 0
     openIssue: 2
-    commit: 653
+    commit: 675
   last60d:
     since: 2026-07-11
     release: 0
@@ -45,7 +45,7 @@ recent:
     openPR: 8
     closedIssue: 0
     openIssue: 7
-    commit: 653
+    commit: 675
   last90d:
     since: 2026-06-11
     release: 0
@@ -53,7 +53,7 @@ recent:
     openPR: 11
     closedIssue: 0
     openIssue: 11
-    commit: 653
+    commit: 675
   last180d:
     since: 2026-03-13
     release: 0
@@ -61,7 +61,7 @@ recent:
     openPR: 27
     closedIssue: 0
     openIssue: 23
-    commit: 687
+    commit: 709
   last360d:
     since: 2025-09-14
     release: 0
@@ -69,7 +69,7 @@ recent:
     openPR: 27
     closedIssue: 31
     openIssue: 32
-    commit: 701
+    commit: 723
   last720d:
     since: 2024-09-19
     release: 24
@@ -77,17 +77,17 @@ recent:
     openPR: 27
     closedIssue: 756
     openIssue: 124
-    commit: 1763
+    commit: 1785
 total:
   release: 24
   mergedPR: 155
   openPR: 27
   closedIssue: 758
   openIssue: 124
-  commit: 1799
+  commit: 1821
 ---
 path: /home/runner/.x-repo/github.com/PDFMathTranslate/PDFMathTranslate
-collectedAt: 2026-09-09T05:29:10Z
+collectedAt: 2026-09-09T19:32:59Z
 loc:
   Python:
     code: 6392
