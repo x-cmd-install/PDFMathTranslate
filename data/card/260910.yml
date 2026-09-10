@@ -2,12 +2,12 @@ about:
   description: "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero"
   license: AGPL-3.0
   homepage: https://pdf2zh.com
-  head: aa02e07
+  head: 6acff55
   archived: false
   latestVersion: "v1.9.11"
   latestRelease: "v1.9.11"
   latestPrerelease: "awv1.9.2.rc0"
-  collectedAt: 2026-09-10T05:27:19Z
+  collectedAt: 2026-09-10T17:08:38Z
 timeline:
   created: 2024-09-06
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-07-11
   lastPrerelease: 2025-02-22
 popularity:
-  star: 36816
+  star: 36834
   watcher: 128
-  fork: 3312
+  fork: 3310
   release: 24
   contributor: 54
-  pullRequest: 275
+  pullRequest: 274
   issue: 882
 language:
   Python: 268180
@@ -34,60 +34,60 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 1
-    openPR: 7
+    openPR: 6
     closedIssue: 0
     openIssue: 2
-    commit: 682
+    commit: 700
   last60d:
     since: 2026-07-12
     release: 0
     mergedPR: 1
-    openPR: 9
+    openPR: 8
     closedIssue: 0
     openIssue: 7
-    commit: 682
+    commit: 700
   last90d:
     since: 2026-06-12
     release: 0
     mergedPR: 1
-    openPR: 12
+    openPR: 11
     closedIssue: 0
     openIssue: 11
-    commit: 682
+    commit: 700
   last180d:
     since: 2026-03-14
     release: 0
     mergedPR: 10
-    openPR: 28
+    openPR: 27
     closedIssue: 0
     openIssue: 23
-    commit: 716
+    commit: 734
   last360d:
     since: 2025-09-15
     release: 0
     mergedPR: 17
-    openPR: 28
+    openPR: 27
     closedIssue: 31
     openIssue: 32
-    commit: 730
+    commit: 748
   last720d:
     since: 2024-09-20
     release: 24
     mergedPR: 155
-    openPR: 28
+    openPR: 27
     closedIssue: 756
     openIssue: 124
-    commit: 1792
+    commit: 1810
 total:
   release: 24
   mergedPR: 155
-  openPR: 28
+  openPR: 27
   closedIssue: 758
   openIssue: 124
-  commit: 1828
+  commit: 1846
 ---
 path: /home/runner/.x-repo/github.com/PDFMathTranslate/PDFMathTranslate
-collectedAt: 2026-09-10T05:27:26Z
+collectedAt: 2026-09-10T17:08:46Z
 loc:
   Python:
     code: 6392
