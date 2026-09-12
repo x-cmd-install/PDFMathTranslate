@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 36,861 · **Forks**: 3,314 · **Open issues**: 883 · **Contributors**: 54
+- **Stars**: 36,865 · **Forks**: 3,314 · **Open issues**: 883 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 28 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 1877
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 28 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 1883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 7 | 0 | 3 | 731 |
-| last60d | 2026-07-13 | 0 | 1 | 9 | 0 | 7 | 731 |
-| 90d | 2026-06-13 | 0 | 1 | 12 | 0 | 12 | 731 |
-| last180d | 2026-03-15 | 0 | 10 | 28 | 0 | 24 | 765 |
-| 360d | 2025-09-16 | 0 | 17 | 28 | 29 | 33 | 779 |
-| last720d | 2024-09-21 | 24 | 155 | 28 | 756 | 125 | 1832 |
+| 30d | 2026-08-13 | 0 | 1 | 7 | 0 | 2 | 737 |
+| last60d | 2026-07-14 | 0 | 1 | 9 | 0 | 7 | 737 |
+| 90d | 2026-06-14 | 0 | 1 | 12 | 0 | 11 | 737 |
+| last180d | 2026-03-16 | 0 | 10 | 28 | 0 | 24 | 771 |
+| 360d | 2025-09-17 | 0 | 17 | 28 | 29 | 33 | 785 |
+| last720d | 2024-09-22 | 24 | 155 | 28 | 756 | 125 | 1837 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:42:26Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:30:02Z._
