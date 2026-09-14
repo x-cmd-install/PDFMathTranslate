@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 36,879 · **Forks**: 3,316 · **Open issues**: 883 · **Contributors**: 54
+- **Stars**: 36,900 · **Forks**: 3,320 · **Open issues**: 883 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 28 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 1903
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 28 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 1927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 8 | 0 | 2 | 712 |
-| last60d | 2026-07-15 | 0 | 1 | 10 | 0 | 7 | 757 |
-| 90d | 2026-06-15 | 0 | 1 | 13 | 0 | 11 | 757 |
-| last180d | 2026-03-17 | 0 | 10 | 28 | 0 | 24 | 760 |
-| 360d | 2025-09-18 | 0 | 17 | 28 | 29 | 33 | 803 |
-| last720d | 2024-09-23 | 24 | 155 | 28 | 756 | 125 | 1856 |
+| 30d | 2026-08-15 | 0 | 1 | 8 | 0 | 2 | 736 |
+| last60d | 2026-07-16 | 0 | 1 | 10 | 0 | 7 | 781 |
+| 90d | 2026-06-16 | 0 | 1 | 13 | 0 | 11 | 781 |
+| last180d | 2026-03-18 | 0 | 10 | 28 | 0 | 24 | 784 |
+| 360d | 2025-09-19 | 0 | 17 | 28 | 29 | 33 | 827 |
+| last720d | 2024-09-24 | 24 | 155 | 28 | 756 | 125 | 1880 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:31:54Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:42:55Z._
