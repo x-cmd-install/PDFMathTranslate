@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,008 · **Forks**: 3,321 · **Open issues**: 883 · **Contributors**: 54
+- **Stars**: 37,043 · **Forks**: 3,324 · **Open issues**: 883 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 29 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 2037
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 29 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 2072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 1 | 7 | 0 | 2 | 846 |
-| last60d | 2026-07-19 | 0 | 1 | 11 | 0 | 7 | 891 |
-| 90d | 2026-06-19 | 0 | 1 | 14 | 0 | 10 | 891 |
-| last180d | 2026-03-21 | 0 | 10 | 29 | 0 | 24 | 894 |
-| 360d | 2025-09-22 | 0 | 17 | 29 | 29 | 33 | 937 |
-| last720d | 2024-09-27 | 24 | 155 | 29 | 756 | 125 | 1986 |
+| 30d | 2026-08-19 | 0 | 1 | 7 | 0 | 2 | 881 |
+| last60d | 2026-07-20 | 0 | 1 | 11 | 0 | 7 | 926 |
+| 90d | 2026-06-20 | 0 | 1 | 14 | 0 | 10 | 926 |
+| last180d | 2026-03-22 | 0 | 8 | 29 | 0 | 24 | 929 |
+| 360d | 2025-09-23 | 0 | 17 | 29 | 29 | 33 | 972 |
+| last720d | 2024-09-28 | 24 | 155 | 29 | 756 | 125 | 2019 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:01:47Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:35Z._
