@@ -4,7 +4,7 @@
 
 [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
-![PDFMathTranslate](https://repo.x-cmd.io/PDFMathTranslate.svg)
+[![x-cmd/install — PDFMathTranslate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PDFMathTranslate.svg)](https://x-cmd.com/install/PDFMathTranslate)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,043 · **Forks**: 3,324 · **Open issues**: 883 · **Contributors**: 54
+- **Stars**: 37,083 · **Forks**: 3,331 · **Open issues**: 884 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 29 · **Closed issues**: 758 · **Open issues**: 125 · **Commits**: 2072
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 31 · **Closed issues**: 758 · **Open issues**: 126 · **Commits**: 2116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 7 | 0 | 2 | 881 |
-| last60d | 2026-07-20 | 0 | 1 | 11 | 0 | 7 | 926 |
-| 90d | 2026-06-20 | 0 | 1 | 14 | 0 | 10 | 926 |
-| last180d | 2026-03-22 | 0 | 8 | 29 | 0 | 24 | 929 |
-| 360d | 2025-09-23 | 0 | 17 | 29 | 29 | 33 | 972 |
-| last720d | 2024-09-28 | 24 | 155 | 29 | 756 | 125 | 2019 |
+| 30d | 2026-08-21 | 0 | 1 | 9 | 0 | 3 | 729 |
+| last60d | 2026-07-22 | 0 | 1 | 13 | 0 | 8 | 970 |
+| 90d | 2026-06-22 | 0 | 1 | 16 | 0 | 11 | 970 |
+| last180d | 2026-03-24 | 0 | 3 | 31 | 0 | 25 | 973 |
+| 360d | 2025-09-25 | 0 | 17 | 31 | 27 | 34 | 1015 |
+| last720d | 2024-09-30 | 24 | 155 | 31 | 756 | 126 | 2059 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:38:35Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:48:15Z._
