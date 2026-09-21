@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,083 · **Forks**: 3,331 · **Open issues**: 884 · **Contributors**: 54
+- **Stars**: 37,110 · **Forks**: 3,331 · **Open issues**: 885 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 31 · **Closed issues**: 758 · **Open issues**: 126 · **Commits**: 2116
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 31 · **Closed issues**: 758 · **Open issues**: 127 · **Commits**: 2146
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 1 | 9 | 0 | 3 | 729 |
-| last60d | 2026-07-22 | 0 | 1 | 13 | 0 | 8 | 970 |
-| 90d | 2026-06-22 | 0 | 1 | 16 | 0 | 11 | 970 |
-| last180d | 2026-03-24 | 0 | 3 | 31 | 0 | 25 | 973 |
-| 360d | 2025-09-25 | 0 | 17 | 31 | 27 | 34 | 1015 |
-| last720d | 2024-09-30 | 24 | 155 | 31 | 756 | 126 | 2059 |
+| 30d | 2026-08-22 | 0 | 1 | 9 | 0 | 4 | 0 |
+| last60d | 2026-07-23 | 0 | 1 | 13 | 0 | 9 | 0 |
+| 90d | 2026-06-23 | 0 | 1 | 15 | 0 | 12 | 0 |
+| last180d | 2026-03-25 | 0 | 3 | 31 | 0 | 25 | 0 |
+| 360d | 2025-09-26 | 0 | 17 | 31 | 27 | 35 | 0 |
+| last720d | 2024-10-01 | 24 | 155 | 31 | 756 | 127 | 2086 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:48:15Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:48:32Z._
