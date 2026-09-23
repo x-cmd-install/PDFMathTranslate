@@ -4,7 +4,7 @@
 
 [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
-[![x-cmd/install — PDFMathTranslate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PDFMathTranslate.svg?lang=zh)](https://x-cmd.com/install/PDFMathTranslate)
+[![x-cmd/install — PDFMathTranslate Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/PDFMathTranslate.svg?lang=zh)](https://x-cmd.com/install/PDFMathTranslate)
 
 ## 安装
 
@@ -33,27 +33,27 @@ x install PDFMathTranslate
 ## 发布
 
 - **最新版本**: `v1.9.11` (2025-07-11)
-- **最近提交**: 2026-09-22
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 37,132 · **Fork**: 3,332 · **开放 issue**: 885 · **贡献者**: 54
+- **Star**: 37,153 · **Fork**: 3,332 · **开放 issue**: 886 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 155 · **开放 PR**: 31 · **已关闭 issue**: 758 · **开放 issue**: 127 · **提交数**: 2171
+- **发布数**: 24 · **已合并 PR**: 155 · **开放 PR**: 31 · **已关闭 issue**: 758 · **开放 issue**: 128 · **提交数**: 2193
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 9 | 0 | 4 | 784 |
-| last60d | 2026-07-24 | 0 | 1 | 13 | 0 | 9 | 1025 |
-| 90d | 2026-06-24 | 0 | 1 | 15 | 0 | 12 | 1025 |
-| last180d | 2026-03-26 | 0 | 3 | 31 | 0 | 25 | 1028 |
-| 360d | 2025-09-27 | 0 | 17 | 31 | 27 | 35 | 1070 |
-| last720d | 2024-10-02 | 24 | 155 | 31 | 756 | 127 | 2111 |
+| 30d | 2026-08-24 | 0 | 1 | 9 | 0 | 5 | 806 |
+| last60d | 2026-07-25 | 0 | 1 | 13 | 0 | 10 | 1047 |
+| 90d | 2026-06-25 | 0 | 1 | 14 | 0 | 12 | 1047 |
+| last180d | 2026-03-27 | 0 | 3 | 31 | 0 | 26 | 1050 |
+| 360d | 2025-09-28 | 0 | 17 | 31 | 27 | 36 | 1092 |
+| last720d | 2024-10-03 | 24 | 155 | 31 | 756 | 128 | 2133 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ PDFMathTranslate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:40:57Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:57:25Z._
