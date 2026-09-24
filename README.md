@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,153 · **Forks**: 3,332 · **Open issues**: 886 · **Contributors**: 54
+- **Stars**: 37,176 · **Forks**: 3,335 · **Open issues**: 887 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 31 · **Closed issues**: 758 · **Open issues**: 128 · **Commits**: 2193
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 34 · **Closed issues**: 758 · **Open issues**: 129 · **Commits**: 2217
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 1 | 9 | 0 | 5 | 806 |
-| last60d | 2026-07-25 | 0 | 1 | 13 | 0 | 10 | 1047 |
-| 90d | 2026-06-25 | 0 | 1 | 14 | 0 | 12 | 1047 |
-| last180d | 2026-03-27 | 0 | 3 | 31 | 0 | 26 | 1050 |
-| 360d | 2025-09-28 | 0 | 17 | 31 | 27 | 36 | 1092 |
-| last720d | 2024-10-03 | 24 | 155 | 31 | 756 | 128 | 2133 |
+| 30d | 2026-08-25 | 0 | 1 | 12 | 0 | 6 | 0 |
+| last60d | 2026-07-26 | 0 | 1 | 16 | 0 | 11 | 0 |
+| 90d | 2026-06-26 | 0 | 1 | 16 | 0 | 13 | 0 |
+| last180d | 2026-03-28 | 0 | 3 | 34 | 0 | 27 | 0 |
+| 360d | 2025-09-29 | 0 | 16 | 34 | 25 | 37 | 0 |
+| last720d | 2024-10-04 | 24 | 155 | 34 | 756 | 129 | 2157 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:57:24Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:21:06Z._
