@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,176 · **Forks**: 3,335 · **Open issues**: 887 · **Contributors**: 54
+- **Stars**: 37,187 · **Forks**: 3,336 · **Open issues**: 887 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 34 · **Closed issues**: 758 · **Open issues**: 129 · **Commits**: 2217
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 36 · **Closed issues**: 758 · **Open issues**: 129 · **Commits**: 2229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 1 | 12 | 0 | 6 | 0 |
-| last60d | 2026-07-26 | 0 | 1 | 16 | 0 | 11 | 0 |
-| 90d | 2026-06-26 | 0 | 1 | 16 | 0 | 13 | 0 |
-| last180d | 2026-03-28 | 0 | 3 | 34 | 0 | 27 | 0 |
-| 360d | 2025-09-29 | 0 | 16 | 34 | 25 | 37 | 0 |
-| last720d | 2024-10-04 | 24 | 155 | 34 | 756 | 129 | 2157 |
+| 30d | 2026-08-26 | 0 | 1 | 14 | 0 | 6 | 0 |
+| last60d | 2026-07-27 | 0 | 1 | 18 | 0 | 11 | 0 |
+| 90d | 2026-06-27 | 0 | 1 | 18 | 0 | 13 | 0 |
+| last180d | 2026-03-29 | 0 | 3 | 36 | 0 | 27 | 0 |
+| 360d | 2025-09-30 | 0 | 16 | 36 | 25 | 37 | 0 |
+| last720d | 2024-10-05 | 24 | 155 | 36 | 756 | 129 | 2169 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:21:06Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:40:32Z._
