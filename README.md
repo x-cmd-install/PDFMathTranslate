@@ -33,27 +33,27 @@ Total: **6,617** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,230 · **Forks**: 3,340 · **Open issues**: 887 · **Contributors**: 54
+- **Stars**: 37,247 · **Forks**: 3,342 · **Open issues**: 887 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 37 · **Closed issues**: 758 · **Open issues**: 129 · **Commits**: 2280
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 37 · **Closed issues**: 758 · **Open issues**: 129 · **Commits**: 2297
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 1 | 15 | 0 | 6 | 635 |
-| last60d | 2026-07-30 | 0 | 1 | 17 | 0 | 10 | 1134 |
-| 90d | 2026-06-30 | 0 | 1 | 19 | 0 | 12 | 1134 |
-| last180d | 2026-04-01 | 0 | 2 | 37 | 0 | 27 | 1135 |
-| 360d | 2025-10-03 | 0 | 16 | 37 | 25 | 37 | 1179 |
-| last720d | 2024-10-08 | 24 | 155 | 37 | 756 | 129 | 2220 |
+| 30d | 2026-08-30 | 0 | 1 | 15 | 0 | 6 | 652 |
+| last60d | 2026-07-31 | 0 | 1 | 17 | 0 | 10 | 1151 |
+| 90d | 2026-07-01 | 0 | 1 | 19 | 0 | 12 | 1151 |
+| last180d | 2026-04-02 | 0 | 2 | 37 | 0 | 27 | 1152 |
+| 360d | 2025-10-04 | 0 | 16 | 37 | 25 | 37 | 1196 |
+| last720d | 2024-10-09 | 24 | 155 | 37 | 756 | 129 | 2237 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:05:00Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:21:15Z._
