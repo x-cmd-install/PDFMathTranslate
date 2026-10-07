@@ -33,27 +33,27 @@ Total: **7,153** lines of code across **37** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,351 · **Forks**: 3,342 · **Open issues**: 888 · **Contributors**: 54
+- **Stars**: 37,360 · **Forks**: 3,341 · **Open issues**: 888 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 38 · **Closed issues**: 758 · **Open issues**: 130 · **Commits**: 2423
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 38 · **Closed issues**: 758 · **Open issues**: 130 · **Commits**: 2437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 14 | 0 | 7 | 0 |
-| last60d | 2026-08-07 | 0 | 1 | 18 | 0 | 9 | 0 |
-| 90d | 2026-07-08 | 0 | 1 | 20 | 0 | 13 | 0 |
-| last180d | 2026-04-09 | 0 | 1 | 38 | 0 | 27 | 0 |
-| 360d | 2025-10-11 | 0 | 16 | 38 | 24 | 38 | 0 |
-| last720d | 2024-10-16 | 24 | 155 | 38 | 752 | 130 | 2348 |
+| 30d | 2026-09-07 | 0 | 1 | 14 | 0 | 7 | 589 |
+| last60d | 2026-08-08 | 0 | 1 | 18 | 0 | 9 | 1290 |
+| 90d | 2026-07-09 | 0 | 1 | 20 | 0 | 13 | 1290 |
+| last180d | 2026-04-10 | 0 | 1 | 38 | 0 | 27 | 1291 |
+| 360d | 2025-10-12 | 0 | 16 | 38 | 23 | 38 | 1335 |
+| last720d | 2024-10-17 | 24 | 155 | 38 | 751 | 130 | 2358 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:07:11Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:38:22Z._
