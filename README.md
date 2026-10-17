@@ -14,11 +14,11 @@ x install PDFMathTranslate
 
 ## Code insight
 
-Total: **7,153** lines of code across **37** files in the top 5 languages.
+Total: **7,162** lines of code across **37** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 6,927 | 301 | 1,076 | 33 |
+| Python | 6,936 | 302 | 1,077 | 33 |
 | Toml | 91 | 2 | 10 | 1 |
 | PowerShell | 67 | 0 | 13 | 1 |
 | Yaml | 23 | 15 | 11 | 1 |
@@ -33,27 +33,27 @@ Total: **7,153** lines of code across **37** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,584 · **Forks**: 3,369 · **Open issues**: 886 · **Contributors**: 54
+- **Stars**: 37,613 · **Forks**: 3,371 · **Open issues**: 886 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 38 · **Closed issues**: 758 · **Open issues**: 128 · **Commits**: 2691
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 39 · **Closed issues**: 758 · **Open issues**: 128 · **Commits**: 2721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 9 | 0 | 3 | 626 |
-| last60d | 2026-08-17 | 0 | 1 | 17 | 0 | 5 | 1534 |
-| 90d | 2026-07-18 | 0 | 1 | 20 | 0 | 10 | 1544 |
-| last180d | 2026-04-19 | 0 | 1 | 36 | 0 | 24 | 1545 |
-| 360d | 2025-10-21 | 0 | 16 | 38 | 22 | 36 | 1589 |
-| last720d | 2024-10-26 | 24 | 155 | 38 | 749 | 128 | 2602 |
+| 30d | 2026-09-17 | 0 | 0 | 10 | 0 | 3 | 656 |
+| last60d | 2026-08-18 | 0 | 1 | 17 | 0 | 5 | 1564 |
+| 90d | 2026-07-19 | 0 | 1 | 21 | 0 | 10 | 1574 |
+| last180d | 2026-04-20 | 0 | 1 | 36 | 0 | 24 | 1575 |
+| 360d | 2025-10-22 | 0 | 16 | 39 | 22 | 36 | 1619 |
+| last720d | 2024-10-27 | 24 | 155 | 39 | 749 | 128 | 2631 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:07:53Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:58:32Z._
