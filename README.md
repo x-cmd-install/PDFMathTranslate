@@ -33,27 +33,27 @@ Total: **7,175** lines of code across **37** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 37,646 · **Forks**: 3,372 · **Open issues**: 886 · **Contributors**: 54
+- **Stars**: 37,684 · **Forks**: 3,377 · **Open issues**: 888 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 36 · **Closed issues**: 759 · **Open issues**: 127 · **Commits**: 2764
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 39 · **Closed issues**: 759 · **Open issues**: 129 · **Commits**: 2803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 6 | 1 | 2 | 538 |
-| last60d | 2026-08-20 | 0 | 1 | 14 | 1 | 4 | 1446 |
-| 90d | 2026-07-21 | 0 | 1 | 18 | 1 | 9 | 1617 |
-| last180d | 2026-04-22 | 0 | 1 | 32 | 1 | 21 | 1618 |
-| 360d | 2025-10-24 | 0 | 16 | 36 | 23 | 35 | 1660 |
-| last720d | 2024-10-29 | 24 | 155 | 36 | 750 | 127 | 2670 |
+| 30d | 2026-09-20 | 0 | 0 | 8 | 1 | 3 | 577 |
+| last60d | 2026-08-21 | 0 | 1 | 17 | 1 | 6 | 1485 |
+| 90d | 2026-07-22 | 0 | 1 | 21 | 1 | 11 | 1656 |
+| last180d | 2026-04-23 | 0 | 1 | 33 | 1 | 23 | 1657 |
+| 360d | 2025-10-25 | 0 | 16 | 39 | 23 | 37 | 1699 |
+| last720d | 2024-10-30 | 24 | 155 | 39 | 750 | 129 | 2709 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:19:25Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:33:50Z._
