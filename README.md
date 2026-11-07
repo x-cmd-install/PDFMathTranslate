@@ -33,27 +33,27 @@ Total: **7,175** lines of code across **37** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.11` (2025-07-11)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 38,238 · **Forks**: 3,425 · **Open issues**: 888 · **Contributors**: 54
+- **Stars**: 38,269 · **Forks**: 3,426 · **Open issues**: 888 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 40 · **Closed issues**: 758 · **Open issues**: 130 · **Commits**: 3388
+- **Releases**: 24 · **Merged PRs**: 155 · **Open PRs**: 40 · **Closed issues**: 758 · **Open issues**: 130 · **Commits**: 3419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 5 | 0 | 1 | 912 |
-| last60d | 2026-09-07 | 0 | 1 | 16 | 1 | 7 | 1597 |
-| 90d | 2026-08-08 | 0 | 1 | 20 | 1 | 9 | 2241 |
-| last180d | 2026-05-10 | 0 | 1 | 33 | 1 | 21 | 2242 |
-| 360d | 2025-11-11 | 0 | 14 | 40 | 20 | 38 | 2281 |
-| last720d | 2024-11-16 | 24 | 154 | 40 | 707 | 128 | 3230 |
+| 30d | 2026-10-08 | 0 | 0 | 5 | 0 | 1 | 943 |
+| last60d | 2026-09-08 | 0 | 0 | 16 | 1 | 6 | 1628 |
+| 90d | 2026-08-09 | 0 | 1 | 20 | 1 | 9 | 2272 |
+| last180d | 2026-05-11 | 0 | 1 | 33 | 1 | 21 | 2273 |
+| 360d | 2025-11-12 | 0 | 14 | 40 | 20 | 38 | 2312 |
+| last720d | 2024-11-17 | 24 | 152 | 40 | 706 | 128 | 3261 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for PDFMathTranslate lives in the [x-cmd/install](https://githu
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:29:56Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:44:10Z._
